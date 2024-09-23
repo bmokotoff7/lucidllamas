@@ -12,16 +12,16 @@ The WiC Active Membership Tracker is a web application that aims to automate thi
 This application will be compatible with desktop and mobile browsers, and will support the accessibility needs of all users.
 
 ## Project Information
-**Project Name:** RIT Women in Computing Active Membership Tracker</br>
-**Team Name:** Lucid Llamas</br>
-**Coach:** Kenn Martinez</br>
-**Sponsoring Organization:** RIT Women in Computing</br>
+**Project Name:** RIT Women in Computing Active Membership Tracker<br />
+**Team Name:** Lucid Llamas<br />
+**Coach:** Kenn Martinez<br />
+**Sponsoring Organization:** RIT Women in Computing<br />
 ### Team Members and Roles
-**Brian Mokotoff:** Project Manager</br> 
-**Peyton Wagner:** Sponsor Communication Lead</br> 
-**Paul Bonargo:** Scrum Master</br>
-**Anjan Maharjan:** Backend/Server Technical Lead</br> 
-**Noah Harbinger**</br>
-**Xuhang Yuan**</br>
+**Brian Mokotoff:** Project Manager<br />
+**Peyton Wagner:** Sponsor Communication Lead<br />
+**Paul Bonargo:** Scrum Master<br />
+**Anjan Maharjan:** Backend/Server Technical Lead<br />
+**Noah Harbinger**<br />
+**Xuhang Yuan**<br />
 
 *Team roles will rotate throughout the project. Additional technical lead roles will be added once development begins.
