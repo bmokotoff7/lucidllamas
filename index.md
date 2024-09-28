@@ -1,4 +1,4 @@
-# Senior Project 2024-25
+# RIT Women In Computing Active Membership Tracker - Senior Project 2024-25
 ## Project Synopsis
 
 **RIT Women in Computing (WiC)** is an organization devoted to supporting and empowering women and gender minorities in the computing field. Throughout the year, WiC members attend a variety of meetings and events which contribute to their membership status. To track active membership, WiC uses numerous spreadsheets, which are completed manually throughout the year. This process is very time consuming, and will become more challenging to maintain as membership grows.
@@ -25,3 +25,9 @@ This application will be compatible with desktop and mobile browsers, and will s
 **Xuhang Yuan**<br />
 
 *Team roles will rotate throughout the project. Additional technical lead roles will be added once development begins.
+
+## Weekly 4-Ups
+[Week 3 (09/10/24 - 09/16/24)](4ups/4-up%20Week%203%20.docx)
+
+## Weekly Sponsor Meeting Agendas
+Week X (mm/dd/yy)
